@@ -1,4 +1,4 @@
 class ganesh{
                  public static void main(String[] args){
-                           system.out.println("This is first program here");
+                           system.out.println("Thikzimvigsms is first program here");
 }
